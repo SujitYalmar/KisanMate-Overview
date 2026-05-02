@@ -88,18 +88,19 @@ The app focuses on simplicity, speed, and offline-friendly architecture — maki
 * Scalable for Android + future iOS expansion
 
 ---
-
 ## 📱 Screenshots
 
-> *(Add real screenshots here — this is critical for recruiter impact)*
+🚧 Screenshots will be added soon.
+
+> The UI includes a modern dashboard, crop-wise financial tracking, reports, and task scheduling screens built with Compose Multiplatform.
 
 ---
 
 ## 📲 APK Download
 
-> *(Add your APK link here — Google Drive / Dropbox)*
+🚧 APK will be available soon.
 
----
+> A downloadable build will be provided for quick testing without setup.
 
 ## 🎯 Why This Project Stands Out
 
@@ -137,8 +138,9 @@ The source code is kept private.
 
 **Sujit Yalmar**
 
-* GitHub: https://github.com/SujitYalmar
-* LinkedIn: *(add your link)*
+* GitHub: [View Profile](https://github.com/SujitYalmar)
+* LinkedIn: [View Profile](https://www.linkedin.com/in/sujit-yalmar/)
+* Instagram: [View Profile](https://www.instagram.com/sujit_0210/)
 
 ---
 
