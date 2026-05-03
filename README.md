@@ -1,5 +1,23 @@
 # 🌾 KisanMate — Smart Farm Finance & Task Manager
 
+<p align="center">
+  <a href="https://drive.google.com/file/d/1rfbgKFDU95euHg6kFQVsOlAkV8rTd_SI/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SujitYalmar">
+    <img src="https://img.shields.io/badge/GitHub-SujitYalmar-black?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://www.linkedin.com/in/sujit-yalmar/">
+    <img src="https://img.shields.io/badge/LinkedIn-Sujit%20Yalmar-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.instagram.com/sujit_0210/">
+    <img src="https://img.shields.io/badge/Instagram-@sujit__0210-E4405F?style=for-the-badge&logo=instagram">
+  </a>
+</p>
+
 > A modern mobile app built to help farmers **track finances, manage crops, and stay organized** — all in one place.
 
 ---
