@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-**KisanMate** is a Kotlin Multiplatform-powered mobile application designed for real-world agricultural use cases.
+**KisanMate** is a Kotlin Multiplatform-powered mobile application designed for real-world agricultural use cases.  
 It enables farmers to **record income/expenses, analyze crop-wise performance, and manage farm activities with reminders**.
 
 The app focuses on simplicity, speed, and offline-friendly architecture — making it practical for day-to-day farm operations.
@@ -29,11 +29,9 @@ The app focuses on simplicity, speed, and offline-friendly architecture — maki
 ### 📊 Reports & Analytics
 
 * Generate reports by:
-
   * Date range
-  * Crop
+  * Crop  
 * Includes:
-
   * Summary view
   * Crop breakdown
 
@@ -66,28 +64,28 @@ The app focuses on simplicity, speed, and offline-friendly architecture — maki
 
 ## 🛠 Tech Stack
 
-* **Kotlin Multiplatform** — Shared business logic
-* **Compose Multiplatform** — Declarative UI
-* **Material 3** — Modern design system
-* **Firebase Auth** — Authentication
-* **Firebase Firestore** — Cloud database
-* **Kotlin Serialization** — Data handling
-* **Coil** — Image loading
+* **Kotlin Multiplatform** — Shared business logic  
+* **Compose Multiplatform** — Declarative UI  
+* **Material 3** — Modern design system  
+* **Firebase Auth** — Authentication  
+* **Firebase Firestore** — Cloud database  
+* **Kotlin Serialization** — Data handling  
+* **Coil** — Image loading  
 
 ---
 
 ## 🏗 Architecture Highlights
 
-* Feature-based modular structure
-* Shared UI + business logic (`commonMain`)
+* Feature-based modular structure  
+* Shared UI + business logic (`commonMain`)  
 * Clean separation of:
-
-  * Presentation
-  * UI
-  * Data models
-* Scalable for Android + future iOS expansion
+  * Presentation  
+  * UI  
+  * Data models  
+* Scalable for Android + future iOS expansion  
 
 ---
+
 ## 📱 Screenshots
 
 🚧 Screenshots will be added soon.
@@ -98,38 +96,39 @@ The app focuses on simplicity, speed, and offline-friendly architecture — maki
 
 ## 📲 APK Download
 
-🚧 APK will be available soon.
+👉 **[Download & Test the App](https://drive.google.com/file/d/1rfbgKFDU95euHg6kFQVsOlAkV8rTd_SI/view?usp=sharing)**
 
-> A downloadable build will be provided for quick testing without setup.
+> Download the APK and install it on your Android device to explore the app.
+
+---
 
 ## 🎯 Why This Project Stands Out
 
-* ✅ Solves a **real-world problem (agriculture finance management)**
-* ✅ Built using **modern cross-platform architecture**
-* ✅ Demonstrates **scalable code structure**
+* ✅ Solves a **real-world problem (agriculture finance management)**  
+* ✅ Built using **modern cross-platform architecture**  
+* ✅ Demonstrates **scalable code structure**  
 * ✅ Covers **end-to-end app development**:
-
-  * Auth
-  * Database
-  * UI/UX
-  * State handling
+  * Auth  
+  * Database  
+  * UI/UX  
+  * State handling  
 * ✅ Designed with **practical usability in mind**
 
 ---
 
 ## 🚧 Future Improvements
 
-* Offline-first sync strategy
-* Strongly typed navigation
-* Expanded analytics
-* Unit & integration testing
-* iOS production readiness
+* Offline-first sync strategy  
+* Strongly typed navigation  
+* Expanded analytics  
+* Unit & integration testing  
+* iOS production readiness  
 
 ---
 
 ## 📌 Note
 
-This repository is a **showcase of the application**.
+This repository is a **showcase of the application**.  
 The source code is kept private.
 
 ---
@@ -138,9 +137,9 @@ The source code is kept private.
 
 **Sujit Yalmar**
 
-* GitHub: [View Profile](https://github.com/SujitYalmar)
-* LinkedIn: [View Profile](https://www.linkedin.com/in/sujit-yalmar/)
-* Instagram: [View Profile](https://www.instagram.com/sujit_0210/)
+* GitHub: https://github.com/SujitYalmar  
+* LinkedIn: https://www.linkedin.com/in/sujit-yalmar/  
+* Instagram: https://www.instagram.com/sujit_0210/  
 
 ---
 
